@@ -642,9 +642,14 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-	// Ajout de la description de la capacité Création de flèches empoisonnées
+	// Ajout de la description de la capacité Création de flèches empoisonnées (Eldoth)
 	COPY_EXISTING ~SPIN116.SPL~ ~override~
 		SAY UNIDENTIFIED_DESC @300
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Ajout de la description de la capacité Dissipation de la magie (Inquisiteur)
+	COPY_EXISTING ~SPCL231.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @301
 	BUT_ONLY_IF_IT_CHANGES
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
