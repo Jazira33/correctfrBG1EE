@@ -194,8 +194,8 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 - Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (descriptions, etc.) :
 	<details><summary>Cliquez ici pour afficher les corrections.</summary>
 	<pre>
-	- Création de flèches empoisonnées, Eldoth (SPIN116.SPL).
-	- Dissipation de la magie, Inquisiteur (SPCL231.SPL).
+	- Création de flèches empoisonnées (SPIN116.SPL).
+	- Dissipation de la magie (SPCL231.SPL).
 	</pre>
 	</details>
 ##

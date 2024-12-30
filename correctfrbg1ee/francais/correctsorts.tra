@@ -6,7 +6,7 @@
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-// SPIN116.SPL (Eldoth)
+// SPIN116.SPL
 @300 = ~Création de flèches empoisonnées
 
 Niveau : 1
@@ -18,7 +18,7 @@ Jet de sauvegarde : aucun
 
 Cette capacité permet à Eldoth de créer des flèches empoisonnées. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches chaque jour que lui seul peut utiliser. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons.~
 
-// SPCL231.SPL (Inquisiteur)
+// SPCL231.SPL
 @301 = ~Dissipation de la magie
 (Abjuration)
 
