@@ -322,6 +322,8 @@ Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 	- Rivvers
 	- Krabator
 	- Mickaël « Mickabouille » Leduque
+	- Jmerry
+	- AlienQuake
 - L'équipe des précédents bénévoles traducteurs et relecteurs français de BG:EE :
 	- Lionel « La Voix 2 la sagesse » Bayle-Denise
 	- Denis « Isaya » Ribayrol
