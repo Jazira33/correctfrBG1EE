@@ -322,8 +322,6 @@ Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 	- Rivvers
 	- Krabator
 	- Mickaël « Mickabouille » Leduque
-	- Jmerry
-	- AlienQuake
 - L'équipe des précédents bénévoles traducteurs et relecteurs français de BG:EE :
 	- Lionel « La Voix 2 la sagesse » Bayle-Denise
 	- Denis « Isaya » Ribayrol
@@ -343,7 +341,7 @@ Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 	- Mornagest
 	- Zefklop
 	- Freddy_Gwendo
-- Freddy_Gwendo pour son modèle de <a href="https://github.com/GwendolyneFreddy/LCC-Readme">readme</a>.
+- Freddy_Gwendo pour son modèle de <a href="https://github.com/GwendolyneFreddy/LCC-Readme">readme</a>, AlienQuake pour son processus d'auto action sur Github et Jmerry pour son aide technique.
 - L'équipe de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour l'hébergement de ce mod.
 - Les créateurs de la série Baldur's Gate : <a href="https://www.bioware.com/">Bioware</a> et <a href="https://www.obsidian.net/">Black Isle Studios</a>, ainsi que <a href="https://www.aroundtheword.com/fr/">Around the word</a> pour la traduction française du contenu classique.
 - Les créateurs des Enhanced Editions et de Siege of Dragonspear : <a href="https://www.beamdog.com/">Overhaul Games</a>, <a href="https://www.beamdog.com/">Beamdog</a>, ainsi que <a href="https://mogi-group.com/">Mogi Group</a> pour la traduction française de Siege of Dragonspear.
