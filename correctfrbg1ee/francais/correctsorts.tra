@@ -6,8 +6,22 @@
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
+//SPPR415.SPL
+@300 = ~Vision lointaine
+(Divination)
+
+Niveau : 4
+Sphère : divination
+Portée : 0
+Durée : 3 rounds + 1 round par niveau
+Temps d'incantation : 4
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zone inexplorée de la carte, similaire à son champ de vision. Le lanceur peut alors surveiller cette zone, voir les créatures et leurs mouvements ainsi que les fortifications qui s'y trouvent. À la fin de l'incantation du sort, interagissez sur la zone de la carte que vous désirez voir. Les effets de ce sort durent 3 rounds, plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20, ou jusqu'à ce qu'ils soient dissipés par une source extérieure.~
+
 // SPIN116.SPL
-@300 = ~Création de flèches empoisonnées
+@301 = ~Création de flèches empoisonnées
 
 Niveau : 1
 Portée : 0
@@ -19,7 +33,7 @@ Jet de sauvegarde : aucun
 Cette capacité permet à Eldoth de créer des flèches empoisonnées. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches chaque jour que lui seul peut utiliser. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons. L'effet de poison est cumulable et ces flèches empoisonnées durent indéfiniment.~
 
 // SPCL231.SPL
-@301 = ~Dissipation de la magie
+@302 = ~Dissipation de la magie
 (Abjuration)
 
 Niveau : 1
