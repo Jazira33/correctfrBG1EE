@@ -20,8 +20,22 @@ Jet de sauvegarde : aucun
 
 Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zone inexplorée de la carte, similaire à son champ de vision. Le lanceur peut alors surveiller cette zone, voir les créatures et leurs mouvements ainsi que les fortifications qui s'y trouvent. À la fin de l'incantation du sort, interagissez sur la zone de la carte que vous désirez voir. Les effets de ce sort durent 3 rounds, plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20, ou jusqu'à ce qu'ils soient dissipés par une source extérieure.~
 
+//SPDR601.SPL
+@301 = ~Chaîne d'éclairs
+(Invocation)
+
+Niveau : 6
+Sphère : climat
+Portée : 12 mètres
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : les ennemis dans un rayon de 5 mètres autour de la cible
+Jet de sauvegarde : sorts (1/2)
+
+Lorsque le lanceur incante Chaîne d'éclairs, des arcs électriques jaillissent du bout de ses doigts, bondissant lentement mais sûrement vers la créature ciblée à une porté maximale de 12 mètres. Toutes les créatures ennemies présentes dans un rayon de 5 mètres autour de la créature ciblée subissent 1d6 points de dégâts électriques par tranche de 2 niveaux d'expérience du lanceur, jusqu'à un maximum de 10d6 points de dégâts électriques au niveau 20. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subis. Ainsi, un lanceur de niveau 12 infligera 6d6 points de dégâts électriques, ou 3d6 points de dégâts électriques si un jet de sauvegarde contre les sorts est réussi. La résistance à la magie des créatures affectées ne rentre pas en ligne de compte.~
+
 // SPIN116.SPL
-@301 = ~Création de flèches empoisonnées
+@302 = ~Création de flèches empoisonnées
 
 Niveau : 1
 Portée : 0
@@ -33,7 +47,7 @@ Jet de sauvegarde : aucun
 Cette capacité permet à Eldoth de créer des flèches empoisonnées dans son inventaire. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches que lui seul peut utiliser. Si l'inventaire d'Eldoth est plein, alors les flèches sont placées au sol. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons. L'effet de poison est cumulable. Par exemple, une créature touchée par deux flèches empoisonnées et ayant raté son jet de sauvegarde contre les poisons à deux reprises subit 2 points de dégâts de poison toutes les 3 secondes pendant 40 secondes. Alternativement, les flèches peuvent être vendues dans les échoppes. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées aux poisons. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que les flèches soient toutes décochées et ne peuvent pas être dissipés par une source extérieure.~
 
 // SPCL231.SPL
-@302 = ~Dissipation de la magie
+@303 = ~Dissipation de la magie
 (Abjuration)
 
 Niveau : 1

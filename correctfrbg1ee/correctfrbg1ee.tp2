@@ -647,14 +647,19 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 		SAY UNIDENTIFIED_DESC @300
 	BUT_ONLY_IF_IT_CHANGES
 
+	// Ajout de la description du sort druidique Chaîne d'éclairs
+	COPY_EXISTING ~SPDR601.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @301
+	BUT_ONLY_IF_IT_CHANGES
+
 	// Ajout de la description de la capacité Création de flèches empoisonnées
 	COPY_EXISTING ~SPIN116.SPL~ ~override~
-		SAY UNIDENTIFIED_DESC @301
+		SAY UNIDENTIFIED_DESC @302
 	BUT_ONLY_IF_IT_CHANGES
 
 	// Ajout de la description de la capacité Dissipation de la magie
 	COPY_EXISTING ~SPCL231.SPL~ ~override~
-		SAY UNIDENTIFIED_DESC @302
+		SAY UNIDENTIFIED_DESC @303
 	BUT_ONLY_IF_IT_CHANGES
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\

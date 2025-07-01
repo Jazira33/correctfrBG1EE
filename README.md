@@ -195,6 +195,7 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	<details><summary>Cliquez ici pour afficher les corrections.</summary>
 	<pre>
 	- Vision lointaine (SPPR415.SPL).
+	- Chaîne d'éclairs (SPDR601.SPL).
 	- Création de flèches empoisonnées (SPIN116.SPL).
 	- Dissipation de la magie (SPCL231.SPL).
 	</pre>
