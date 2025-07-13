@@ -8,7 +8,7 @@
 
 //SPPR415.SPL
 @300 = ~Vision lointaine
-(Divination)
+(Divination, Non-offensif)
 
 Niveau : 4
 Sphère : divination
@@ -22,7 +22,7 @@ Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zo
 
 //SPDR601.SPL
 @301 = ~Chaîne d'éclairs
-(Invocation)
+(Invocation, Dégât offensif)
 
 Niveau : 6
 Sphère : climat
@@ -58,6 +58,6 @@ Temps d'incantation : 1
 Zone d'effet : rayon de 5 mètres
 Jet de sauvegarde : aucun
 
-Le sort Dissipation de la magie annule les effets magiques affectant toutes les créatures présentes dans un rayon de 5 mètres à une portée maximale de 12 mètres, qu'il s'agisse des effets des sorts, des capacités, des potions ou de certains objets tels que les baguettes. Cependant, il n'affecte pas les objets magiques enchantés ou les protections de sort telles que les sorts profanes de 5ème, 6ème et 7ème niveau Bouclier de sort, Déviation de sorts, Renvoi des sorts, etc. Les chances de réussite dépendent du niveau d'expérience du lanceur de la Dissipation de la magie et du niveau d'expérience du créateur des effets à dissiper. Le pourcentage de chances de réussite de base est de 49 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie au-dessus du niveau d'expérience du créateur des effets à dissiper, les chances de réussite augmentent de 5 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie en dessous du niveau d'expérience du créateur des effets à dissiper, un malus de 10 % est appliqué aux chances de réussite. Cependant, quelle que soit la différence de niveau d'expérience, il y a toujours au minimum 1 % de chances d'échec. Ainsi, si le lanceur de la Dissipation de la magie a plus de 10 niveaux d'expérience que le créateur des effets à dissiper, il n'a que 1 % de chances d'échec. De la même façon, si le lanceur de la Dissipation de la magie a 4 niveaux d'expérience de moins que le créateur des effets à dissiper, il n'a que 10 % de chances de réussite. Dans la pratique, le sort n'a aucune chance de réussir si le créateur des effets à dissiper a plus de 5 niveaux d'expérience que le lanceur de la Dissipation de la magie. La Dissipation de la magie des inquisiteurs est lancé au double du niveau d'expérience de ces derniers, le lanceur obtient donc un bonus de 2 niveaux de lanceur de sorts par niveau d'expérience du lanceur, jusqu'à un maximum de 40 niveaux de lanceur de sorts au niveau 20.
+Le sort Dissipation de la magie annule les effets magiques affectant toutes les créatures présentes dans un rayon de 5 mètres à une portée maximale de 12 mètres, qu'il s'agisse des effets des sorts, des capacités, des potions ou de certains objets tels que les baguettes. Cependant, il n'affecte pas les objets magiques enchantés ou les Protections de sort telles que les sorts profanes de 5ème, 6ème et 7ème niveau Bouclier de sort, Déviation de sorts, Renvoi des sorts, etc. Les chances de réussite dépendent du niveau d'expérience du lanceur de la Dissipation de la magie et du niveau d'expérience du créateur des effets à dissiper. Le pourcentage de chances de réussite de base est de 49 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie au-dessus du niveau d'expérience du créateur des effets à dissiper, les chances de réussite augmentent de 5 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie en dessous du niveau d'expérience du créateur des effets à dissiper, un malus de 10 % est appliqué aux chances de réussite. Cependant, quelle que soit la différence de niveau d'expérience, il y a toujours au minimum 1 % de chances d'échec. Ainsi, si le lanceur de la Dissipation de la magie a plus de 10 niveaux d'expérience que le créateur des effets à dissiper, il n'a que 1 % de chances d'échec. De la même façon, si le lanceur de la Dissipation de la magie a 4 niveaux d'expérience de moins que le créateur des effets à dissiper, il n'a que 10 % de chances de réussite. Dans la pratique, le sort n'a aucune chance de réussir si le créateur des effets à dissiper a plus de 5 niveaux d'expérience que le lanceur de la Dissipation de la magie. La Dissipation de la magie des inquisiteurs est lancé au double du niveau d'expérience de ces derniers, le lanceur obtient donc un bonus de 2 niveaux de lanceur de sorts par niveau d'expérience du lanceur, jusqu'à un maximum de 40 niveaux de lanceur de sorts au niveau 20.
 
 Notez que même si ce sort dissipe les effets individuels des sorts profanes de 1er et 2ème niveau Glisse, Toile d'araignée, Nuage puant et autres, il ne dissipe pas pour autant la zone d'effet stationnaire de ces sorts. À savoir que ce sort dissipe automatiquement les effets de surdité et de débilité mentale, quelle que soit la différence de niveau entre le lanceur de la Délivrance de la magie et le créateur des effets à dissiper. De plus, ce sort ignore les immunités aux niveaux de sorts, telles que l'immunité des liches aux sorts et capacités de 1er, 2ème, 3ème, 4ème et 5ème niveau ou encore aux sorts profanes de 4ème et 6ème niveau Globe mineur d'invulnérabilité et Globe d'invulnérabilité.~
