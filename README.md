@@ -189,9 +189,10 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	- Roublarde (THIEFF.CRE).
 	- Narcillicus Harwilliger Néen (NARCIL.CRE).
 	- Thalantyr le Conjurateur (THALAN.CRE).
+	- Chien enragé (DOGWISU.CRE).
 	</pre>
 	</details>
-- Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (descriptions, etc.) :
+- Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (noms, descriptions, etc.) :
 	<details><summary>Cliquez ici pour afficher les corrections.</summary>
 	<pre>
 	- Vision lointaine (SPPR415.SPL).

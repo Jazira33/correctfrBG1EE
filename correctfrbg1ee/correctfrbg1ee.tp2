@@ -634,6 +634,12 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 		WRITE_LONG 0x0c 12277
 	BUT_ONLY_IF_IT_CHANGES
 
+	// Correction du nom pour uniformiser avec BG2 la créature convoquée par le sort profane Convocation de monstres I (Chien enragé)
+	COPY_EXISTING ~DOGWISU.CRE~ ~override~
+		SAY NAME1 @250
+		SAY NAME2 @250
+	BUT_ONLY_IF_IT_CHANGES
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
