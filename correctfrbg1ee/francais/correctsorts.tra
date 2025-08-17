@@ -6,8 +6,36 @@
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
+//SPPR415.SPL
+@300 = ~Vision lointaine
+(Divination, Non-offensif)
+
+Niveau : 4
+Sphère : divination
+Portée : 0
+Durée : 3 rounds + 1 round par niveau
+Temps d'incantation : 4
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zone inexplorée de la carte, similaire à son champ de vision. Le lanceur peut alors surveiller cette zone, voir les créatures et leurs mouvements ainsi que les fortifications qui s'y trouvent. À la fin de l'incantation du sort, interagissez sur la zone de la carte que vous désirez voir. Les effets de ce sort durent 3 rounds, plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20, ou jusqu'à ce qu'ils soient dissipés par une source extérieure.~
+
+//SPDR601.SPL
+@301 = ~Chaîne d'éclairs
+(Invocation, Dégâts offensifs)
+
+Niveau : 6
+Sphère : climat
+Portée : 12 mètres
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : les ennemis dans un rayon de 5 mètres autour de la cible
+Jet de sauvegarde : sorts (1/2)
+
+Lorsque le lanceur incante Chaîne d'éclairs, des arcs électriques jaillissent du bout de ses doigts, bondissant lentement mais sûrement vers la créature ciblée à une porté maximale de 12 mètres. Toutes les créatures ennemies présentes dans un rayon de 5 mètres autour de la créature ciblée subissent 1d6 points de dégâts électriques par tranche de 2 niveaux d'expérience du lanceur, jusqu'à un maximum de 10d6 points de dégâts électriques au niveau 20. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subis. Ainsi, un lanceur de niveau 12 infligera 6d6 points de dégâts électriques, ou 3d6 points de dégâts électriques si un jet de sauvegarde contre les sorts est réussi. La résistance à la magie des créatures affectées ne rentre pas en ligne de compte.~
+
 // SPIN116.SPL
-@300 = ~Création de flèches empoisonnées
+@302 = ~Création de flèches empoisonnées
 
 Niveau : 1
 Portée : 0
@@ -16,4 +44,20 @@ Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Cette capacité permet à Eldoth de créer des flèches empoisonnées. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches chaque jour que lui seul peut utiliser. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons.~
+Cette capacité permet à Eldoth de créer des flèches empoisonnées dans son inventaire. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches que lui seul peut utiliser. Si l'inventaire d'Eldoth est plein, alors les flèches sont placées au sol. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons. L'effet de poison est cumulable. Par exemple, une créature touchée par deux flèches empoisonnées et ayant raté son jet de sauvegarde contre les poisons à deux reprises subit 2 points de dégâts de poison toutes les 3 secondes pendant 40 secondes. Alternativement, les flèches peuvent être vendues dans les échoppes. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées aux poisons. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que les flèches soient toutes décochées et ne peuvent pas être dissipés par une source extérieure.~
+
+// SPCL231.SPL
+@303 = ~Dissipation de la magie
+(Abjuration)
+
+Niveau : 1
+Sphère : protection
+Portée : 12 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 5 mètres
+Jet de sauvegarde : aucun
+
+Le sort Dissipation de la magie annule les effets magiques affectant toutes les créatures présentes dans un rayon de 5 mètres à une portée maximale de 12 mètres, qu'il s'agisse des effets des sorts, des capacités, des potions ou de certains objets tels que les baguettes. Cependant, il n'affecte pas les objets magiques enchantés ou les Protections de sort telles que les sorts profanes de 5ème, 6ème et 7ème niveau Bouclier de sort, Déviation de sorts, Renvoi des sorts, etc. Les chances de réussite dépendent du niveau d'expérience du lanceur de la Dissipation de la magie et du niveau d'expérience du créateur des effets à dissiper. Le pourcentage de chances de réussite de base est de 49 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie au-dessus du niveau d'expérience du créateur des effets à dissiper, les chances de réussite augmentent de 5 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie en dessous du niveau d'expérience du créateur des effets à dissiper, un malus de 10 % est appliqué aux chances de réussite. Cependant, quelle que soit la différence de niveau d'expérience, il y a toujours au minimum 1 % de chances d'échec. Ainsi, si le lanceur de la Dissipation de la magie a plus de 10 niveaux d'expérience que le créateur des effets à dissiper, il n'a que 1 % de chances d'échec. De la même façon, si le lanceur de la Dissipation de la magie a 4 niveaux d'expérience de moins que le créateur des effets à dissiper, il n'a que 10 % de chances de réussite. Dans la pratique, le sort n'a aucune chance de réussir si le créateur des effets à dissiper a plus de 5 niveaux d'expérience que le lanceur de la Dissipation de la magie. La Dissipation de la magie des inquisiteurs est lancé au double du niveau d'expérience de ces derniers, le lanceur obtient donc un bonus de 2 niveaux de lanceur de sorts par niveau d'expérience du lanceur, jusqu'à un maximum de 40 niveaux de lanceur de sorts au niveau 20.
+
+Notez que même si ce sort dissipe les effets individuels des sorts profanes de 1er et 2ème niveau Glisse, Toile d'araignée, Nuage puant et autres, il ne dissipe pas pour autant la zone d'effet stationnaire de ces sorts. À savoir que ce sort dissipe automatiquement les effets de surdité et de débilité mentale, quelle que soit la différence de niveau entre le lanceur de la Délivrance de la magie et le créateur des effets à dissiper. De plus, ce sort ignore les immunités aux niveaux de sorts, telles que l'immunité des liches aux sorts et capacités de 1er, 2ème, 3ème, 4ème et 5ème niveau ou encore aux sorts profanes de 4ème et 6ème niveau Globe mineur d'invulnérabilité et Globe d'invulnérabilité.~
