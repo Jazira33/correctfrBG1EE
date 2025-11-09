@@ -34,8 +34,29 @@ Jet de sauvegarde : sorts (1/2)
 
 Lorsque le lanceur incante Chaîne d'éclairs, des arcs électriques jaillissent du bout de ses doigts, bondissant lentement mais sûrement vers la créature ciblée à une porté maximale de 12 mètres. Toutes les créatures ennemies présentes dans un rayon de 5 mètres autour de la créature ciblée subissent 1d6 points de dégâts électriques par tranche de 2 niveaux d'expérience du lanceur, jusqu'à un maximum de 10d6 points de dégâts électriques au niveau 20. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subis. Ainsi, un lanceur de niveau 12 infligera 6d6 points de dégâts électriques, ou 3d6 points de dégâts électriques si un jet de sauvegarde contre les sorts est réussi. Les dégâts ainsi causés contournent les éventuelles répliques illusoires des sorts profanes de 1er et 2ème niveau Image réfléchie et Image miroir. La résistance à la magie des créatures affectées ne rentre pas en ligne de compte.~
 
+//SPCL612.SPL
+@302 = ~Métamorphose en loup
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Force : 18
+Dextérité : 17
+
+Classe d'armure de base : 6
+Attaques par round : 1
+Dégâts : 1d8 (perforant), peut atteindre les créatures comme une arme de niveau d'enchantement +1
+
+Capacités spéciales :
+- Résistance au froid : 100 %
+- Résistance au froid magique : 100 %
+- Résistance à l'électricité : 50 %~ //Différence BG1EE = Loup 1 attaque par round, BG2EE = Loup 2 attaques par round
+
 // SPIN116.SPL
-@302 = ~Création de flèches empoisonnées
+@303 = ~Création de flèches empoisonnées
 
 Niveau : 1
 Portée : 0
@@ -47,7 +68,7 @@ Jet de sauvegarde : aucun
 Cette capacité permet à Eldoth de créer des flèches empoisonnées dans son inventaire. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches que lui seul peut utiliser. Si l'inventaire d'Eldoth est plein, alors les flèches sont placées au sol. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons. L'effet de poison est cumulable. Par exemple, une créature touchée par deux flèches empoisonnées et ayant raté son jet de sauvegarde contre les poisons à deux reprises subit 2 points de dégâts de poison toutes les 3 secondes pendant 40 secondes. Alternativement, les flèches peuvent être vendues dans les échoppes. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées aux poisons. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que les flèches soient toutes décochées et ne peuvent pas être dissipés par une source extérieure.~
 
 // SPCL231.SPL
-@303 = ~Dissipation de la magie
+@304 = ~Dissipation de la magie
 (Abjuration)
 
 Niveau : 1

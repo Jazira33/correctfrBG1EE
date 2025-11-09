@@ -197,6 +197,7 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	<pre>
 	- Vision lointaine (SPPR415.SPL).
 	- Chaîne d'éclairs (SPDR601.SPL).
+	- Métamorphose en loup (SPCL612.SPL).
 	- Création de flèches empoisonnées (SPIN116.SPL).
 	- Dissipation de la magie (SPCL231.SPL).
 	</pre>
