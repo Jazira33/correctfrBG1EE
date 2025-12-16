@@ -36,6 +36,7 @@ Lorsque le lanceur incante Chaîne d'éclairs, des arcs électriques jaillissent
 
 //SPCL612.SPL
 @302 = ~Métamorphose en loup
+(Toutes écoles)
 
 Portée : 0
 Durée : permanente
@@ -57,6 +58,7 @@ Capacités spéciales :
 
 // SPIN116.SPL
 @303 = ~Création de flèches empoisonnées
+(Toutes écoles)
 
 Niveau : 1
 Portée : 0
@@ -65,7 +67,9 @@ Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Cette capacité permet à Eldoth de créer des flèches empoisonnées dans son inventaire. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches que lui seul peut utiliser. Si l'inventaire d'Eldoth est plein, alors les flèches sont placées au sol. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons. L'effet de poison est cumulable. Par exemple, une créature touchée par deux flèches empoisonnées et ayant raté son jet de sauvegarde contre les poisons à deux reprises subit 2 points de dégâts de poison toutes les 3 secondes pendant 40 secondes. Alternativement, les flèches peuvent être vendues dans les échoppes. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées aux poisons. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que les flèches soient toutes décochées et ne peuvent pas être dissipés par une source extérieure.~
+Cette capacité permet à Eldoth de créer des flèches empoisonnées dans son inventaire. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches que lui seul peut utiliser. Si l'inventaire d'Eldoth est plein, alors les flèches sont placées au sol. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons. L'effet de poison est cumulable. Par exemple, une créature touchée par deux flèches empoisonnées et ayant raté son jet de sauvegarde contre les poisons à deux reprises subit 2 points de dégâts de poison toutes les 3 secondes pendant 40 secondes. Alternativement, les flèches peuvent être vendues dans les échoppes. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées aux poisons. Seuls les dégâts périodiques peuvent être dissipés par une source extérieure, et la seule manière est d'utiliser les sorts divins et druidiques de 2ème, 4ème, 6ème et 7ème niveau Ralentissement du poison, Neutralisation du poison, Guérison et Restauration majeure ou encore des objets tels que l'Antidote. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que les flèches soient toutes décochées et peuvent partiellement être dissipés par une source extérieure.
+
+Cette capacité n'est pas affectée par les sorts profanes, divins et druidiques de 3ème niveau Dissipation de la magie et Délivrance de la magie.~
 
 // SPCL231.SPL
 @304 = ~Dissipation de la magie
