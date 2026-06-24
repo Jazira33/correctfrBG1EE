@@ -2,7 +2,7 @@
 
 <div align="center"><h1>Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear</h1>
 
-<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour BG:EE (v2.6+), BG:SoD (v2.6+) et EET (v13+)<h3>
+<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour BG:EE (v2.7+), BG:SoD (v2.7+) et EET (v13+)<h3>
 
 </div><br>
 
@@ -51,7 +51,7 @@ Merci de nous signaler toute éventuelle faute à corriger sur le <a href="https
 
 #### Jeux concernés
 
-Le mod « Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » est conçu pour fonctionner sur BG:EE (v2.6+), BG:SoD (v2.6+) et EET (v13+).
+Le mod « Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » est conçu pour fonctionner sur BG:EE (v2.7+), BG:SoD (v2.7+) et EET (v13+).
 
 #### Compatibilité avec les autres mods
 
