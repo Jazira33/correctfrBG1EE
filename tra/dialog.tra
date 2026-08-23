@@ -7349,7 +7349,7 @@ Poids : 10~
 @6859  = ~Arc long composite +1~
 @6860  = ~Arc long~
 @6861  = ~Arc long~
-@6862  = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@6862  = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 PARAMÈTRES :
 
@@ -7364,7 +7364,7 @@ Poids : 3~
 @6863  = ~Arc long +1~
 @6864  = ~Arc court~
 @6865  = ~Arc court~
-@6866  = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@6866  = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 PARAMÈTRES :
 
@@ -20798,7 +20798,7 @@ Nécessite :
  18 en Force
 
 Poids : 9~
-@16289 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@16289 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 PARAMÈTRES :
 
@@ -20808,7 +20808,7 @@ Type de compétence : arc long
 Type : arme à deux mains
 
 Poids : 3~
-@16290 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@16290 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 PARAMÈTRES :
 
@@ -22825,7 +22825,7 @@ Poids : 15~
 @17640 = ~Prêtre d'Ilmater~
 @17641 = ~Verling~
 @17642 = ~Verling~
-@17643 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@17643 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 Celui-ci est enchanté, ce qui le rapproche de la perfection en la matière.
 
@@ -23090,7 +23090,7 @@ PARAMÈTRES :
 Spécial : restaure 9 points de vie
 
 Poids : 1~
-@17668 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@17668 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Cet arc est magique, procurant à son porteur un bonus supplémentaire à la vitesse, à la précision et aux dégâts.
 
@@ -47990,7 +47990,7 @@ Type : arme à une main
 
 Poids : 0~
 @30712 = ~Arc long +2~
-@30713 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@30713 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 Le corps de cet arc est tiède au toucher, signe évident de propriétés magiques.
 
@@ -48006,7 +48006,7 @@ Nécessite :
 
 Poids : 3~
 @30714 = ~Arc court +2~
-@30715 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@30715 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Cet arc court peut rivaliser avec n'importe quel arc long. La magie qui en émane, qu'elle vienne du bois qui le constitue ou qu'elle soit le fruit des enchantements d'un magicien, lui accorde une précision et une puissance hors du commun.
 
